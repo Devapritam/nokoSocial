@@ -764,3 +764,11 @@ main .container .right {
     width: 92vw;
   }
 }
+
+
+@media screen and (max-width: 570px) {
+  .customise-theme .choose-bg{
+    flex-wrap: wrap;
+  }
+}
+
